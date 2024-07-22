@@ -1,0 +1,4 @@
+PlayerName=Sicarius
+PlayerClass=Rogue
+PlayerX=12
+PlayerY=7
